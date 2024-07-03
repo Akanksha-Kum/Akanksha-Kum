@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Mongo-DB , Python Django
 - 📫 How to reach me akanksha.kum71@gmail.com
 - 😄 Pronouns:She/Her
-- ⚡ Fun fact: Logged in Tech world because Coding rule Industry.
+- ⚡ Fun fact: Logged in into Tech world because Coding rules the World.
 
 <!---
 Akanksha-Kum/Akanksha-Kum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
