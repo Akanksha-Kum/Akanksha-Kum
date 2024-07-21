@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akanksha Kumari
-- 👀 I’m interested in Data Analyzing , Data Modeling , Vizulaization .
+- 👀 I’m interested in Data Analyzing , Data Modeling , Visualization .
 - 🌱 I’m currently learning Mongo-DB , Python Django
 - 📫 How to reach me akanksha.kum71@gmail.com
 - 😄 Pronouns:She/Her
