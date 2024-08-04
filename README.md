@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akanksha Kumari
 - 👀 I’m interested in Data Analyzing , Data Modeling , Visualization .
-- 🌱 I’m currently learning Mongo-DB , Python Django
+- 🌱 I’m currently learning HTML , CSS , React.js
 - 📫 How to reach me akanksha.kum71@gmail.com
 - 😄 Pronouns:She/Her
 - ⚡ Fun fact: Logged in into Tech world because Coding rules the World.
